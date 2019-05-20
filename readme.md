@@ -7,13 +7,9 @@ A Real Estate Agent wants all their client Reviews from various websites like Zi
 ## The Solution:
 Team Zillow made the Real Estate Agents’ dream come true by developing an API to move the Agent’s reviews on Zillow to their own personal website which was also developed by Team Zillow.
 
-## The Real Estate Agent Website
-
 ## Tools Used:
 Sublime Text Editor
 ## Code Languages used:
 HTML, CSS and Javascript
 ## The Process:
 Built website from scratch
-## The API:
-Reviews from Zillow to Real Estate Agent Personal Website
