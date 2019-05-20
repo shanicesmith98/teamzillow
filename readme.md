@@ -1,5 +1,4 @@
 # Team Zillow
-
 [Devpost Submission](https://devpost.com/software/teamzillow)
 
 ## The Problem
